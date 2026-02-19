@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Andrej Smirnov"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Lisbon"
+  employer         : "NOVA SBE"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "andrej.smirnov@novasbe.pt" 
 
   # Academic websites
   academia         : # URL
